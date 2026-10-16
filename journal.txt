@@ -1,3 +1,3 @@
-Ma première phrase
+Version test-conflit
 Ma deuxième phrase
 Ma conclusion
