@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Version main
+=======
+Version test-conflit
+>>>>>>> test-conflit
 Ma deuxième phrase
 Ma conclusion
